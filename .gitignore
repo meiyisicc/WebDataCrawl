@@ -1,0 +1,6 @@
+# ignore .pyc
+*.pyc
+
+# ignore .o and .a
+*.[oa]
+
